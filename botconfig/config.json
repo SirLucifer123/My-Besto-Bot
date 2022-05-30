@@ -1,5 +1,5 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "OTY5NjY0OTYxMTkyMjgwMTA0.GcXw6b.xoUZIPDcKsieXaL50-9_wwRbrBdHNPW7tmQGrw",
     "prefix": "//",
     "ownerIDS": [
         "442355791412854784"
@@ -8,9 +8,9 @@
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
+        "text": "We Are ({membercount}) Members",
+        "text2": "By : Sir,Youssef",
+        "type": "STREAMING",
         "url": "https://twitch.tv/milratodiscordbot"
     },
     "clientsettings": {
